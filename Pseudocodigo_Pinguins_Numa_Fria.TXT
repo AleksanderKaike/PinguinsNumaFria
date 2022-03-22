@@ -1,0 +1,23 @@
+INICIO DO JOGO
+ClicarFilhote Verde
+Clicar Pai Verde
+Clicar Gelo
+Clicar Pai Verde
+Clicar Gelo
+Clicar Filhote Vermelho
+Clicar Gelo
+Clicar Filhote Verde
+Clicar Gelo
+Clicar Pai Vermelho
+Clicar Gelo
+Clicar Pai Vermelho
+Clicar Gelo
+Clicar Filhote Azul
+Clicar Gelo
+Clicar Filhote Vermelho
+Clicar Gelo
+Clicar Pai Azul
+Clicar Gelo
+Clicar Pai Azul
+Clicar Filhote Azul
+FIM DO JOGO
